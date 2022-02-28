@@ -1,0 +1,864 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The essence, quintessence, insence, innocence, lye-sence, &amp; magnifisence of nonsence upon sence: or, Sence upon nonsence. The third part, the fourth impression, the fifth edition, the sixth addition, upon condition, that (by tradition) the reader may laugh if he list. In longitude, latitude, crassitude, magnitude, and amplitude, lengthened, widened, enlarged, augmented, encreased, made wider and sider, by the addition of letters, syllables, words, lines, and farfetch'd sentences. And the lamentable death and buriall of a Scottish Gallaway nagge. Written upon white paper, in a brown study, betwixt Lammas day and Cambridge, in the yeare aforesayd. Beginning at the latter end, and written by John Taylor at the sign of the poor Poets Head, in Phœnix Alley, near the middle of Long Acre, or Coven Garden. Anno, millimo, quillimo, trillimo, daffadillimo, pulcher.</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95539</idno>
+            <idno type="STC">Wing T458</idno>
+            <idno type="STC">Thomason E1465_1</idno>
+            <idno type="STC">ESTC R209618</idno>
+            <idno type="EEBO-CITATION">99868484</idno>
+            <idno type="PROQUEST">99868484</idno>
+            <idno type="VID">169990</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95539)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169990)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 187:E1465[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The essence, quintessence, insence, innocence, lye-sence, &amp; magnifisence of nonsence upon sence: or, Sence upon nonsence. The third part, the fourth impression, the fifth edition, the sixth addition, upon condition, that (by tradition) the reader may laugh if he list. In longitude, latitude, crassitude, magnitude, and amplitude, lengthened, widened, enlarged, augmented, encreased, made wider and sider, by the addition of letters, syllables, words, lines, and farfetch'd sentences. And the lamentable death and buriall of a Scottish Gallaway nagge. Written upon white paper, in a brown study, betwixt Lammas day and Cambridge, in the yeare aforesayd. Beginning at the latter end, and written by John Taylor at the sign of the poor Poets Head, in Phœnix Alley, near the middle of Long Acre, or Coven Garden. Anno, millimo, quillimo, trillimo, daffadillimo, pulcher.</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "feb: 10 1653".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Nonsense literature, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169990:1" rendition="simple:additions"/>
+            <p>THE <hi>Eſſence, Quinteſſence, Inſence, Inno<g ref="char:EOLhyphen"/>cence, Lye-ſence,</hi> &amp; <hi>Magnifiſence</hi> OF <hi>Nonſence</hi> upon <hi>Sence:</hi> OR, SENCE <hi>upon</hi> NONSENCE.</p>
+            <p>The third Part, the fourth Impreſſion, the fifth Edition, the ſixth Addition, upon Condition; that (by Tradition) the Reader may laugh if he liſt.</p>
+            <p>In Longitude, Latitude, Craſſitude, Magnitude, and Amplitude, lengthened, widened, enlarged, aug<g ref="char:EOLhyphen"/>mented, encreaſed, made wider and ſider, by the addition of Letters, Syllables, Words, Lines, and far fetch'd Sentences.</p>
+            <p>And the lamentable Death and Buriall of a Scottiſh Gallaway Nagge.</p>
+            <p>Written upon <hi>White Paper,</hi> in a <hi>Brown Study,</hi> be<g ref="char:EOLhyphen"/>twixt <hi>Lammas</hi> Day and <hi>Cambridge,</hi> in the Yeare aforeſayd.</p>
+            <p>Beginning at the latter end, and written by <hi>John Taylor</hi> at the ſign of the poor <hi>Poets Head,</hi> in <hi>Phoenix Alley,</hi> near the middle of <hi>Long Acre,</hi> or <hi>Coven Garden.</hi>
+            </p>
+            <p>
+               <hi>Anno, Millimo, Quillimo, Trillimo, Daffadillimo, Pulcher.</hi>
+            </p>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:169990:2"/>
+            <head>In Laudem Authoris.</head>
+            <lg>
+               <l>MUſt <hi>Non-ſence</hi> fill up every Page?</l>
+               <l>Is it to ſave th' expence</l>
+               <l>Of wit? or will not this dull Age</l>
+               <l>Be at the Charge of ſence?</l>
+            </lg>
+            <lg>
+               <l>But <hi>(John)</hi> though Fortune play the Whore,</l>
+               <l>Let not the Vulgar know it;</l>
+               <l>Perhaps if you had not been poor,</l>
+               <l>You had not been a Poet.</l>
+            </lg>
+            <lg>
+               <l>Your Eſtate's held in <hi>Capite,</hi>
+               </l>
+               <l>It lies upon <hi>Pernaſſus;</hi>
+               </l>
+               <l>Complain not then of Poverty,</l>
+               <l>You are as rich as <hi>Craſſus.</hi>
+               </l>
+            </lg>
+            <byline>H. B.</byline>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="3" facs="tcp:169990:2"/>
+            <head>Nonſenſe upon Senſe, &amp;c.</head>
+            <lg>
+               <l>MOu<g ref="char:cmbAbbrStroke">̄</g>t meekly low, on blew preſumptuous wings,</l>
+               <l>Relate the force of fiery water Springs,</l>
+               <l>Tell how the Attick, and Antartick Pole</l>
+               <l>Together met at Hockley in the Hole:</l>
+               <l>How Etna, and Veſſuvius, in cold bloud,</l>
+               <l>Were both drown'd in the Adriatick floud.</l>
+               <l>Speak truth (like a Diurnall) let thy Pen</l>
+               <l>Camelion like, rouze Lions from their Den,</l>
+               <l>Turne frantick Wolpacks into melting Rocks,</l>
+               <l>And put Olympus in a Tinder box:</l>
+               <l>Report how Ruſſian Cats doe barke like dogs,</l>
+               <l>And Scithian Mountains are turnd Iriſh Bogs,</l>
+               <l>Feaſt Ariadne with Tartarian Tripes,</l>
+               <l>Transforme great Canons to Tobacco-pipes:</l>
+               <l>Make Venus like a Negro, white as jet,</l>
+               <l>And puffe-paſte of the Tomb of Mahomet.</l>
+               <l>Then mounted on a Windmill preſently</l>
+               <l>To Dunſtable in Derbyſhire I'le flie:</l>
+               <l>From thence Ile take the Chariot of the Sun,</l>
+               <l>And ſwim to Scotland, and bring news what's done:</l>
+               <l>From thence Ile ſoare to ſilver Cintha's lap,</l>
+               <l>And with Endimion take a nine years nap:</l>
+               <l>There Ile drinke healths with ſmug-face Mulciber,</l>
+               <l>At all the twelve ſignes in the Hemiſphere.</l>
+               <l>Tuſh tell not me theſe things are paſt diſpute,</l>
+               <l>Ile from th' Heſperides bring golden fruit:</l>
+               <pb n="4" facs="tcp:169990:3"/>
+               <l>Such as the Poets Palfrey Pegaſus,</l>
+               <l>Fetch'd from the fertile Molehill Caucaſus,</l>
+               <l>Tis not the Perſian Gulph, or Epſhams Well,</l>
+               <l>Nor Weſtminſters ſweet Plum-broth (made in Hell)</l>
+               <l>Can change my reſolution, I have vow'd,</l>
+               <l>To ſpeake with ſilence and to write aloud,</l>
+               <l>That Bulls of Baſan, and the Circean Swine,</l>
+               <l>Shall all dance Trenchmore at theſe words of mine.</l>
+               <l>Rouze up thou Ghoſt of Guſman, and apply</l>
+               <l>Thy ſelfe to me and let's write Tempe dry:</l>
+               <l>Be rul'd by me, we'le empty all Hellicon,</l>
+               <l>In ſcribling 'gainſt the Whore of Babylon.</l>
+               <l>The Dunſmore Cows milke ſhall make Sillibubs,</l>
+               <l>And our Religion ſhall be brought in Tubs.</l>
+               <l>Make haſt unto the faire call'd Bartholomew,</l>
+               <l>And thence from the Heroick Mungrell Crew,</l>
+               <l>Take the fine gugaw hobby horſes all,</l>
+               <l>Which we will man, and then a Counſell call</l>
+               <l>And conquer Callice, Kent and Chriſtendome,</l>
+               <l>Knock down the Turck, and bravely ranſack Rome;</l>
+               <l>What can be done more? What more can be ſed?</l>
+               <l>Let's play at Blind man-buffe for Ginger-bread:</l>
+               <l>We'le have a diſh of Dabs in Fiſh-ſtreet dreſt,</l>
+               <l>And with the Lobſters Ladies we will feaſt.</l>
+               <l>For as the Gowt is but a pleaſing itch,</l>
+               <l>The beſt Bear-garden Bull-dog was a Bitch.</l>
+               <l>We have both eight and eighteen parts of ſpeech,</l>
+               <l>Whereby I learn Aſh burns as well as Beech,</l>
+               <l>Gargantua's ſcull is made a frying pan</l>
+               <l>To fry or follow the Leviathan,</l>
+               <l>That Gogmagog, Nick Wood, or Mariot,</l>
+               <l>Nor Creatan, Miloe, or Iſcariot</l>
+               <l>Were not ſuch valiant ſtomack'd men as thoſe</l>
+               <l>That eat the Devils gowty petitoes.</l>
+               <pb n="5" facs="tcp:169990:3"/>
+               <l>Hark, hark, how from the South fierce Boreas rores</l>
+               <l>Give me a Sculler or a pair of Oares.</l>
+               <l>Ile make the Orient, and the Occident,</l>
+               <l>Both friends at Smithfield in the wild of Kent:</l>
+               <l>For now Tom Holders Mare hath broke her Cruppe</l>
+               <l>Dreſſe me a diſh of Ae-dipthongs to ſupper.</l>
+               <l>The Dean of Dunſtable hath bought and ſold</l>
+               <l>Twelve lies new Printed, for two groats in gold.</l>
+               <l>Tis almoſt paſt the memory of man,</l>
+               <l>Since famous Arthur firſt in Court began:</l>
+               <l>Yet though King Lud did raign in Troynovaunt,</l>
+               <l>Will Summers was no kin to John of Gaunt.</l>
+               <l>What news from Tripoly? ware horns there ho:</l>
+               <l>The Weſt-wind blows South-North at Ierico.</l>
+               <l>Steer well and ſteady, boyes look, look to th' Helme,</l>
+               <l>Fetch Goesberries that grow upon the Elme:</l>
+               <l>Like Cormorants lets live upon the Ayre,</l>
+               <l>And of a Whirle-poole make a Marble Chair.</l>
+               <l>Blind men may ſee, and deafe men all ſhall hear</l>
+               <l>How dumb men talk, becauſe Cow-hides are dear.</l>
+               <l>Go to th' Utopian Kingdome and relate,</l>
+               <l>That to their King theſe lines I dedicate:</l>
+               <l>Bid him take note of me, and underſtand</l>
+               <l>He hath not ſuch a Poet in his Land.</l>
+               <l>Down by the dale with milk and cream that flows.</l>
+               <l>Upon a Hill (below the Valley) grows</l>
+               <l>Hungarian Peacocks white as crimſon Geeſe,</l>
+               <l>There ſate a Rat upon a Holland Cheeſe:</l>
+               <l>No ſooner did blind Bayard ſee the ſight,</l>
+               <l>Two beauteous ugly Witches took their flight</l>
+               <l>To tell the King of China wondrous news,</l>
+               <l>How all Scotch Knaves were hang'd and Engliſh Iews.</l>
+               <l>Th' Athenian Hidra, and the Bird Torpedo</l>
+               <l>Were catcht in France in Mouſe-traps near Toledo.</l>
+               <pb n="6" facs="tcp:169990:4"/>
+               <l>A Scolopendra comming neare Pickthatch,</l>
+               <l>Made drunke a Conſtable and ſtole the watch.</l>
+               <l>Do what you can, Madge howlet is an Owle:</l>
+               <l>And Beans with Buttermilke is rare wild Fowle.</l>
+               <l>The Coblers daughter, wee three both together,</l>
+               <l>Wee'le match, he'l give a thouſand pieces with her;</l>
+               <l>Beſides the ſmoak of Keinſam and Bell-Swagger,</l>
+               <l>Who oft at Mims did uſe his dudgeon Dagger:</l>
+               <l>Then ſhall the Perecranians of the Eaſt,</l>
+               <l>South, North, and Weſt, with every bird and Beaſt;</l>
+               <l>All knuckle deep in Paphlagonian Sands,</l>
+               <l>Inhabite Tranſilvanian Netherlands:</l>
+               <l>'Tis the onely gallant way to gaine promotion,</l>
+               <l>To ſqueeſe Oyle from the Cindars of Devotion,</l>
+               <l>Tranſlate our Rowndhead Turnips into Carrets,</l>
+               <l>And turne the loweſt Cellars to high Garrets:</l>
+               <l>Let Neptune be a ſhepheard, and let Vulcan</l>
+               <l>Make haſt to Greeneland, and there drinke his full Kan.</l>
+               <l>Titus Andronicus hath writ a Treatiſe,</l>
+               <l>Of Molehils in the entrance of Dame Theatis,</l>
+               <l>Wherein a man may learn before he looks</l>
+               <l>To catch mince-pies with neither nets nor hooks:</l>
+               <l>There policy with practiſe cut and dri'd</l>
+               <l>Were carted both in triumph through Cheapſide.</l>
+               <l>If Monday hang himſelfe no further ſeek.</l>
+               <l>Henceforth Tueſday ſhall begin the week:</l>
+               <l>No more of that I pray, I am afear'd</l>
+               <l>Ther's not one haire upon Diana's beard.</l>
+               <l>Great Agamemnon late combin'd with Hector,</l>
+               <l>To preach at Amſterdam an Iriſh Lector,</l>
+               <l>Which ſhall convert the Horſe, the Aſſe, and Mule</l>
+               <l>And all the Beaſts in Hipperborean Thule</l>
+               <l>If Sun-ſhine will with ſhaddowes but conſent</l>
+               <l>We'le make the winter of our diſcontent</l>
+               <pb n="7" facs="tcp:169990:4"/>
+               <l>To force fierce Crook-back into better tune,</l>
+               <l>And turne Decembers heat to froſt in June.</l>
+               <l>When this externall ſubſtance of my ſoule</l>
+               <l>Did live at liberty, I caught wild fowle,</l>
+               <l>I was a Caiftiffe in the Court of Spaine,</l>
+               <l>And playd at ſhuttle-cock with Charlemaine:</l>
+               <l>Then I did magnifie and mundifie,</l>
+               <l>Then I the Fairy Queen did putrifie,</l>
+               <l>And purifie againe, and dignifie,</l>
+               <l>All ſuch as did her greatneſſe deifie,</l>
+               <l>Females did edifie and fructifie,</l>
+               <l>And Amplifie and coldly gratifie.</l>
+               <l>The Lake of Lerna I did clarifie,</l>
+               <l>My Verſe the Aethiop Queen did beautifie.</l>
+               <l>With rage my patience I would qualifie,</l>
+               <l>I can both certifie and teſtifie</l>
+               <l>How Death did live, and life did mortifie:</l>
+               <l>Feare alwayes did my courage fortifie:</l>
+               <l>He's crafty that his wits can rectifie,</l>
+               <l>To vilifie, make glad and terrifie,</l>
+               <l>And with courſe words old debts to ſatisfie,</l>
+               <l>That man Ile ratifie and notifie</l>
+               <l>To be one that himſelfe will Juſtifie,</l>
+               <l>And fie, fo, fum, concludes him with O fie:</l>
+               <l>Thus from complexions I have Mineralls drawne,</l>
+               <l>Brave Captaine Fumble layd his ſword to pawn</l>
+               <l>To ranſome Jeffery Chaucers Cipreſſe Gowne.</l>
+               <l>Therſitis with a Ruſh knockt Ajax downe</l>
+               <l>Imperious Momus wrote th' Atlantick ſtory</l>
+               <l>Of wars betwixt Achilles and John Dory:</l>
+               <l>'T was dedicated to the Iſle of Lundy.</l>
+               <l>An Embleame right of <hi>tranſit gloria mundi.</hi>
+               </l>
+               <l>Thus the great Amadis de Gal was able</l>
+               <l>With Nonſence (like ſence) to endure a Fable</l>
+               <pb n="8" facs="tcp:169990:5"/>
+               <l>Thus Mirmidons, upon the plains of Sarum</l>
+               <l>Did beat up Pompies quarters with alarum.</l>
+               <l>Let not the diſtances of place moleſt us,</l>
+               <l>Abidos is not forty miles from Seſtus:</l>
+               <l>As Hero lov'd Leander, I'le agree,</l>
+               <l>Though he and ſhe were mad, what's that to me?</l>
+               <l>Tis like Cleopatra and Antonius</l>
+               <l>Met, but ſaw not the Cardinall Baronius:</l>
+               <l>The Capitol, and ſilken Rock Tarpeyus</l>
+               <l>In a Seadan to Lichfield ſhall convey us;</l>
+               <l>And like a wheel-barrow we'l cut and curry,</l>
+               <l>And fetch good news from Shropſhire and from Surry:</l>
+               <l>There is no Eunuch of the Race of Brutus,</l>
+               <l>That either can confute us, or cornute us.</l>
+               <l>Old Solon was no jeſter, nor no jyber,</l>
+               <l>And Engliſh Thames is better then Romes Tyber:</l>
+               <l>I took a Camel, and to Naples went I,</l>
+               <l>Of pickled Sauſedges I found great plenty;</l>
+               <l>The Gudgeon catcher there o'retop'd the Nobles,</l>
+               <l>And put the Vice Roy in a peck of troubles:</l>
+               <l>Brave tag rag multitude of Omnium Gatherum.</l>
+               <l>Shuffle 'um together, and the Devill father 'um:</l>
+               <l>But now and then was ſquez'd a rich Delinquent,</l>
+               <l>By which good means away the precious chink went:</l>
+               <l>Renowned was the Raskall Maſſennello,</l>
+               <l>In fifteen dayes he was raw, ripe, and mellow.</l>
+               <l>Laugh, laugh, thou whining Foole Heraclitus,</l>
+               <l>And weep thou grinning Aſſe Democritus:</l>
+               <l>The grey Horſe is the better Mare by halfe,</l>
+               <l>The Bull at Bear-Garden, and Walthams Calfe</l>
+               <l>Are reconcil'd, but not concluded fully</l>
+               <l>Who pleaded beſt, Demoſthenes or Tully:</l>
+               <l>I am indifferent, fill the other Kan,</l>
+               <l>Logick hath art to make an Ape a man.</l>
+               <pb n="9" facs="tcp:169990:5"/>
+               <l>I weeping ſing, to think upon the Quiblins</l>
+               <l>Twixt Romane, and Imperiall Guelphs and Giblins.</l>
+               <l>How Munſters John a Leide, and Knipperdoling</l>
+               <l>Were barbarous Barbers in the art of poling.</l>
+               <l>From Sence and Nonſence, I am wide, quoth Wallice,</l>
+               <l>But not ſo far as Oxford is from Callice:</l>
+               <l>Give me a Leaſh of merry blades, right Bilboes,</l>
+               <l>True tatter'd Rogues in Breech, Shirts, Skirts, and Elboes,</l>
+               <l>And each of them will make a fit Diſciple.</l>
+               <l>To ride up Holborn to the tree that's triple:</l>
+               <l>A man may think his purſe is quite turn'd Round-head,</l>
+               <l>When all the croſſes in it are confounded:</l>
+               <l>'Tis ſayd that Poetry a thriving trade is,</l>
+               <l>And gets a World of wealth from Lords and Ladies;</l>
+               <l>The Devill they do, falſe ſhamefull Lown thou ly'ſt,</l>
+               <l>And when thou canſt no longer live, thou dy'ſt.</l>
+               <l>Lend me Rhamnuſſnes Flanders blade, Ile laſh</l>
+               <l>The ſober Centaure, turn great Oaks to Aſh:</l>
+               <l>A long Devils broath, be ſure you bring a ſpoon,</l>
+               <l>Our mornings ſhall begin at afternoon;</l>
+               <l>And Minos, Eacus, nor Rhadamantus</l>
+               <l>May rore and rant, but never ſhall out rant us.</l>
+               <l>As we are Temporall, let's be Temporizers,</l>
+               <l>We ſcorn to be ſurpriz'd, we'l be ſurprizers:</l>
+               <l>Let's make grim Pluto ſtink, the welkin rumble,</l>
+               <l>And Hollophernes bluſter, blow, and grumble,</l>
+               <l>Rending up mighty Thiſtles by the roots,</l>
+               <l>Becauſe an Oſtler ſtole away his boots:</l>
+               <l>Then with a multiplying Gally pot,</l>
+               <l>Ile know the projects of the crafty Scot;</l>
+               <l>And then he ſhall be forc'd to hide his head</l>
+               <l>In Tenebris, in Poland, or in Swead:</l>
+               <l>Fough, this Tobacco ſtinks; thou dirty Hag,</l>
+               <l>Stand further near, Ile put thee in a bag.</l>
+               <pb n="10" facs="tcp:169990:6"/>
+               <l>Search Aſia, Affrick and America,</l>
+               <l>To find the Goddeſſe Berecinthia,</l>
+               <l>And know how Pirramus and this befell</l>
+               <l>Together by the years late in Bridewell.</l>
+               <l>Words are but wind in Terme time, but Vacations</l>
+               <l>Are fit to publiſh ſilent Proclamations.</l>
+               <l>There was a buſineſſe never underſtood,</l>
+               <l>The womans ſuit in Law was juſt and good:</l>
+               <l>She loſt the day, this did her Cauſe diſgrace,</l>
+               <l>The Lawyer put ſome ill into her Caſe.</l>
+               <l>Before Ile live this life, Ile take a knife,</l>
+               <l>And drown my ſelfe, and then what needs a Wife?</l>
+               <l>Strange things are done by Art and humane power,</l>
+               <l>Q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inborow Caſtle landed neare the Tower.</l>
+               <l>Much like a Prodigy old time playd Rex:</l>
+               <l>A Kentiſh Caſtle came to Middleſex.</l>
+               <l>May not a man cal'd Newgate dwell at Higate,</l>
+               <l>And wed a Widdow at the Pie at Algate?</l>
+               <l>Therefore let us like or diſlike Presbytery,</l>
+               <l>It will worke finely if it once beſquitter ye.</l>
+               <l>Bring me a Salamander from Surat in France,</l>
+               <l>The Alps and the Pirenian hils ſhall dance.</l>
+               <l>Is Greenewich Parke there ſmiling Nioby</l>
+               <l>Shall laugh and lye downe like an Oyſter Pye.</l>
+               <l>F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me is a lying ſlut<g ref="char:punc">▪</g> ſhe told me tayles,</l>
+               <l>That in October Chriſtmas came from Wales:</l>
+               <l>Beleeve it take the wings of Icarus.</l>
+               <l>And walke to Hounſditch, and to Erebus,</l>
+               <l>There tell them playnly how the caſe ſtands here.</l>
+               <l>And bring us word how matters do goe there.</l>
+               <l>Unto the Market Ile run preſently,</l>
+               <l>And there a peck of troubles I will buy,</l>
+               <l>One told me they would multiply and grow:</l>
+               <l>All England with them I will plant and ſow.</l>
+               <pb n="11" facs="tcp:169990:6"/>
+               <l>Which as they ripen dayly Ile take care</l>
+               <l>That every living ſoule ſhall have a ſhare:</l>
+               <l>Ile ſerve my ſelfe firſt, and Ile have ſuch ſtore</l>
+               <l>In time of need to ſerve a thouſand more.</l>
+               <l>But I forget my Theame. O foule offence!</l>
+               <l>This nonſence hath a taſte of too much ſence:</l>
+               <l>The Aſſe, Gooſ, Woodcock, Buzard, and the Gull,</l>
+               <l>Beat out their brains, and put them in my ſcull;</l>
+               <l>And tell the men of Gotham tis thought fit</l>
+               <l>The Wiſemen there ſhould lend me all their wit:</l>
+               <l>For Nonſence I will tax all Chriſtendome,</l>
+               <l>Great Emperours and Kings ſhall pay me ſome,</l>
+               <l>And many a Major, or juſtice of the Peace</l>
+               <l>Will give me tribute and the Tax encreaſe</l>
+               <l>To ſuch a height, that Cardinals from Rome,</l>
+               <l>Cuckolds, and Coſtables ſhall pay me ſome:</l>
+               <l>Strong Hull, with fatall Hell, and Hallifax,</l>
+               <l>Shall naturally bring me tole and tax:</l>
+               <l>The mighty ſtock of Nonſence I will win:</l>
+               <l>Shalbe the univerſall Magazine,</l>
+               <l>For Univerſities to worke upon</l>
+               <l>The Rich Philoſophers admired Stone:</l>
+               <l>Then I make Poets rich, and Uſurers poor;</l>
+               <l>And thus reſolv'd at this time write no more.</l>
+            </lg>
+         </div>
+         <div type="dedication">
+            <pb n="12" facs="tcp:169990:7"/>
+            <head>
+               <hi>This Dedication is humbly directed to a living man, quartered into four Offices</hi> (viz.) <hi>a Scavenger, a Beadle, a Cobler, and halfe a Conſtable.</hi>
+            </head>
+            <p>TO the high and mighty <hi>Davidius Vulcanus,</hi> Duke and Dominator of the Dunghils, and abſolute, reſo<g ref="char:EOLhyphen"/>lute, diſſolute, Scavenger of the Town and Territories of <hi>Graveſend</hi> in <hi>Norfolk,</hi> great Maſter and Baron of the Wheel-barrow, the only Farmer, Tranſporter, Lord of the Soyle, and Privy ſearcher of all Mixens, and Muckhils, ſimple or compound, in the Liberties aforeſaid. Cleanſer, Clearer, and avoyder of the moſt Turpitudi<g ref="char:EOLhyphen"/>nous, Merdurinous, excrementall offals, Muck, and Garbage. Refiner, Purger, Clarifier, Purifier, Mundi<g ref="char:EOLhyphen"/>fier, Excluder, and Expulſer of Putrifactious and Peſti<g ref="char:EOLhyphen"/>ferous Contagions; the <hi>Potentiſſimo, Excellentiſſi<g ref="char:EOLhyphen"/>mo,</hi> Invader, Scatterer, Diſperſer, Conſumer, and Con<g ref="char:EOLhyphen"/>founder of offenſive unſavoury ſavours, ſmels, ſcents, and Vapours: Great Soldan, Sultan, and Grand Signiour over all varieties of ſtinks, and ſtinkards; moſt Trium<g ref="char:EOLhyphen"/>phant Termagant, vnreſiſtable Conquerour and Com<g ref="char:EOLhyphen"/>mander of the major and minor (the great and the leſs) Turditanians, chief Corrigidor &amp; Beadle of all the Pre<g ref="char:EOLhyphen"/>cinct, ſole Tranſplanter, Terrifier, Controler, and Cor<g ref="char:EOLhyphen"/>rector of Beggers and Vagabonds. The terrible Hue and Cry, Cryer, chiefe Court-Cryer, Jayle-Keeper, and only Conſiner of the Hogs; chiefe and moſt frequent vigilant Watchman, demy-Conſtable, and Image of Au<g ref="char:EOLhyphen"/>thority, the moſt accompliſhed Cobler, exquiſite Tranſla<g ref="char:EOLhyphen"/>tor,
+<pb n="13" facs="tcp:169990:7"/>and exact Reformer of oppreſſed, decayed, wicked, &amp; oppreſſed ſoals: And the only judiciary rectifier, un<g ref="char:EOLhyphen"/>derlayer, and ſetter upright of ſuch Brethren and Si<g ref="char:EOLhyphen"/>ſters as doe goe aſide, and tread their foot awry in theſe dayes of Vanity, and paths of Iniquity: In hope (Great Sir) I have not abated you of the leaſt tittle of your title, your Honorable ſtile being ſo high, that no Chriſtian, Pagan, Heathen, Turk, Jew, Infidell, Cuckold, or Can<g ref="char:EOLhyphen"/>niball, can never climb to the top of it, there being a late report that your multiplicity and many affaires of State have diſturbed your reſt, &amp; impaired your health, inſomuch as it is thought your pericranion is crazed or cracked, and you thereby in danger to fall into a Callen<g ref="char:EOLhyphen"/>turian diſeaſe, which is to be doubted may produce a Ver<g ref="char:EOLhyphen"/>tigo in your head, wherby your wit may be troubled with a ſuperfluous flux, which may prove a moleſtation to your ſelfe, and the whole Town, that hath in it ſelfe, and in every place round about it, more troubles then they can well bear. But if their hard fortune ſhould be, that when you are working to your own Ends, and that you ſhould call for your Aule, and death ſhould miſtake and bring you your Laſt, whereby ſuch a privy member as your ſelfe might be publickly loſt; it is feared, griefe would overflow the whole Town, and that ſome of the Towneſmen (with the help of their Wives) would run ſtarke horne mad: To prevent this great detriment of ſuch a loſſe as that Town may undergo in this time of ſcarcity of wit, wiſdome, and wiſe men; for feare you ſhould fall into the dangerous diſeaſes of the Mubble<g ref="char:EOLhyphen"/>fubbles, or the grumbling of the Gizzard: Therefore to drive away dumps, and to give you ſome Recreati<g ref="char:EOLhyphen"/>on,
+<pb n="14" facs="tcp:169990:8"/>I have made bold to preſent your greatneſſe with this Dedication, which if you will vouchſafe but to read and underſtand, and in ſo doing you ſhal do more for the Authour, then he ever was or ſhall do himſelfe.</p>
+            <closer>
+               <signed>J. T.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <head>Allandro paſqueto Valatrumpa entangrino liuroe.</head>
+            <lg>
+               <l>
+                  <hi>IL vento Chioli, Mauritambull Teda fulgare,</hi>
+               </l>
+               <l>
+                  <hi>Antro della campo ill Danto Corda ſublima</hi>
+               </l>
+               <l>
+                  <hi>Pantathos, ſtremo ſtandina eſchine vandri</hi>
+               </l>
+               <l>
+                  <hi>Bene in ſhendo, tircia, penthe diſſadi.</hi>
+               </l>
+               <l>
+                  <hi>Mecrops Sans ſida vocifera Randa Bavinea,</hi>
+               </l>
+               <l>
+                  <hi>Allatendrea quanto, Eltrada Pizminoy venta,</hi>
+               </l>
+               <l>
+                  <hi>Mega Pollimunton, Theorba quaſi quicunque</hi>
+               </l>
+               <l>Tripolina Tiphon, Quabacondono ſapho.</l>
+               <l>
+                  <hi>Terra tragmus ſophye, ſunt diacalcitheo Geata.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="encomium">
+            <head>Avoſtre Obſerdandi Zhean De Fiſtye Cankie De Sallamanca Andalowſia.</head>
+            <head type="sub">Or thus you may Engliſh it, in the tranſcending prayſe of the Authour and his Booke.</head>
+            <lg>
+               <l>TIll PHOEBUS bluſtring blaſts ſhall ceaſe to blow,</l>
+               <l>And AEOLUS ſhall hide his radiant Rayes,</l>
+               <l>Till VULCANS Forge be fram'd of Scithian Snow,</l>
+               <l>And NEPTUNE like a Shepheard ſpend his dayes;</l>
+               <l>When SATURNE ſhall ſell Mouſe traps and allow</l>
+               <l>MARS to ſing Madrigals, and round delayes:</l>
+               <l>Then ſhall thy Book and thee be out of Date,</l>
+               <l>And ſcorn the envy of conſuming Fate.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>
+               <hi>To your Worthineſſe in all obſervance Devoted, John De<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſtie Cankie</hi> of <hi>Sallamanca</hi> in <hi>Andaluſia.</hi>
+            </head>
+            <pb n="15" facs="tcp:169990:8"/>
+            <lg>
+               <l>SWift Pepaſus lend me thy Hoofes and Wings</l>
+               <l>Tempe, and Aganipp, and ſuch ſtrange things</l>
+               <l>As Poets do call Hellicon, and Muſes</l>
+               <l>(That with ingenious wit the braine infuſes)</l>
+               <l>In nimble ſtrains make my invention wag,</l>
+               <l>And tell the ſad death of a Scottiſh Nag.</l>
+               <l>A Nag of Nags, (as thoſe that knew him ſay)</l>
+               <l>Whoſe birth and breeding was in Galloway,</l>
+               <l>Which Countrey (though it barren be and bare)</l>
+               <l>His Mother was a well reputed Mare:</l>
+               <l>He had all paces, and more ſwift then Wind,</l>
+               <l>Could trot before and amble well behind;</l>
+               <l>He had two ſorts of gallops, falſe and true,</l>
+               <l>That when he did but run, men thought he flew!</l>
+               <l>Sure he was kin to winged Pegaſus,</l>
+               <l>And of the race of great Bucephalus;</l>
+               <l>But Ile not rake up old Antiquity,</l>
+               <l>To prove his Anceſters old Pedigree:</l>
+               <l>Let it ſuffice, that ſuch a Horſe he was</l>
+               <l>That could in meaſure bravely pace and paſſe,</l>
+               <l>A Bay, a gallant Bay, moſt ſwift and quick,</l>
+               <l>Not having one baſe ſcurvy jadiſh trick.</l>
+               <l>There's many brave men, in their fineſt trim</l>
+               <l>Wants what this Nag had, ſound of wind and Limb.</l>
+               <l>He di'd untimely by a ſad diſaſter,</l>
+               <l>And death unluckily unhors'd his maſter.</l>
+               <l>Though Horſes of diſeaſes have too many,</l>
+               <l>Yet in his life time he had never any:</l>
+               <l>He had no Chin-gall, Wind-gall, Navell-gall,</l>
+               <l>Or Staggers, Spur-gall, Light-gall, Shackſgall,</l>
+               <l>Nor Wormes, or anticore, or Salenders,</l>
+               <l>Nor Scatches, Dropſie, or the Mallenders,</l>
+               <l>No Palſey, Feaver vext him, or Pompardy,</l>
+               <pb n="16" facs="tcp:169990:9"/>
+               <l>No frenzy troubled him, he was ſo hardy;</l>
+               <l>No Glanders, Cough, the Yellows, or Pole evill,</l>
+               <l>Or Spavens, Splinters, Faſhions, or Colt-evill;</l>
+               <l>Nor Ring-bones, Quitter-bones, no Curbs or Hawſe,</l>
+               <l>Were of this Nags death any griefe or Cauſe;</l>
+               <l>No Cramp or Canker, Creſtfall, or the Vives,</l>
+               <l>Or bloudy Riffes that ſhorten Horſes lives.</l>
+               <l>He had no Crown-ſcab, nor was ever found</l>
+               <l>To have the Hawkes, or Toothach, or Hide-bound,</l>
+               <l>Or Bots, or Botch, or Paps his health did wound.</l>
+               <l>No tongue-hurt Farley, rotten Fruſh, or Cloy'd,</l>
+               <l>No Kybes, or broken wind his health annoy'd;</l>
+               <l>No Bladders, Surbates, Wrench, or Tyredneſſe,</l>
+               <l>No ſtrain, no Scottiſh fleas, or lowſineſſe;</l>
+               <l>No prick 'ith ſoale, Neck-creek, or ſhoulder-ſplat,</l>
+               <l>Or Strangle, he ne'r troubled was with that;</l>
+               <l>He had no Pin and Web, looſe-hoof'd, or gravel'd,</l>
+               <l>Bloud-ſhot, or founder'd whenſoere he travel'd:</l>
+               <l>Horſe hip'd he was not, or in's Groyn a Wen,</l>
+               <l>Nor Rot i'th Lungs, nor ſhed his hair, what then</l>
+               <l>Did kill him? ſome ſuppoſe it was the Poſe;</l>
+               <l>But we are all deceiv'd, 'twas none of thoſe:</l>
+               <l>No Megrim was his death, or Calenture,</l>
+               <l>He with a Surfeit dy'd an Epicure.</l>
+               <l>But change of Paſture, altring of the Ayre</l>
+               <l>The health of M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n or Horſe may much impaire:</l>
+               <l>For by old PAR it plainly doth appear,</l>
+               <l>(Who liv'd in Shropſhire ſevenſcore thirteen year)</l>
+               <l>Was by an Honorable Earles expence,</l>
+               <l>With Care and Coſt to London brought from thence;</l>
+               <l>But change of Ayre and Dyet took ſhort courſe,</l>
+               <l>And layd him dead, like Maſter FRADSHAMS horſe.</l>
+               <l>This Nag in Scotland kept a temperate dyet,</l>
+               <l>(For Gallaway's a Country free from Riot)</l>
+               <pb n="17" facs="tcp:169990:9"/>
+               <l>Nor can it be reported any where,</l>
+               <l>That ever Horſe did dye of Surfet there:</l>
+               <l>With Provender they are not proud, prick'd up,</l>
+               <l>With moderation there they bite and ſup;</l>
+               <l>Their fate is fruitfull Fearn, and wholſome Heath,</l>
+               <l>Which frugall food preſerves long wind or Breath,</l>
+               <l>Or Moſſe as ſoft as downe or good chop'd ſtraw;</l>
+               <l>(For Horſes there thinke Hay Apocrypha)</l>
+               <l>An Engliſh Horſe-loafe's Antichriſtian,</l>
+               <l>And all their Nags are Presbyterian:</l>
+               <l>For had I Ariſtotiles wit, my pen</l>
+               <l>Would prove ſtrange Sects in Horſes as in men:</l>
+               <l>The Spaniſh Jennet, and the Flaunders Mare,</l>
+               <l>Betwixt them many ſtrange opinions are:</l>
+               <l>The Sumpter Horſe will prance a lofty Gate,</l>
+               <l>Proud with the Burthen of ill gotten plate;</l>
+               <l>The Naples Courſer, and the German ſteed,</l>
+               <l>The Barbary Horſe that 'mongſt the Moors doth breed,</l>
+               <l>The Cart horſe, French Cavalla<g ref="char:punc">▪</g> Iriſh Hobby,</l>
+               <l>The Welſh Tit that loves Oats beyond Couſe bobby:</l>
+               <l>A man may write and talke, and waſt his wind,</l>
+               <l>Yet never make theſe horſes of one mind;</l>
+               <l>And many ſects there are that diſagree,</l>
+               <l>Who in Religion like to Horſes be:</l>
+               <l>And ſure more Horſes have to Churches gone</l>
+               <l>Within th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe ten years, then was ever known:</l>
+               <l>This Nag, neare Hampton Court did catch his death</l>
+               <l>And to his Maſter did his skin bequeath;</l>
+               <l>His Brains, Wit, Reaſon, and his honeſty,</l>
+               <l>He gave to's Countrey as a Legacy:</l>
+               <l>His Corps had near a hundred Graves and Tombs,</l>
+               <l>In light foot Hounds, Kites, Crows, and Ravens Wombs:</l>
+               <l>Thus at his Funerall ſolemnity,</l>
+               <l>He was moſt ſwift, and did both run and flie.</l>
+            </lg>
+            <div n="2" type="part">
+               <pb n="18" facs="tcp:169990:10"/>
+               <head>The Second Part to the ſame Sence.</head>
+               <lg>
+                  <l>WHen as a Woodcock did a Phoenix hatch,</l>
+                  <l>Once in the Raigne of Iulian the Apoſtate,</l>
+                  <l>When Spiders Nets an Elephant did catch,</l>
+                  <l>The Alehouſe had no fire to make a Toaſt at;</l>
+                  <l>Then in thoſe merry lamentable dayes,</l>
+                  <l>Upon a Chriſtmas Evenear Michaelmas,</l>
+                  <l>New Market heath did hoarſly ſing the praiſe</l>
+                  <l>Of Apuleins, or the Golden Aſſe.</l>
+                  <l>The Adamantine fall of ſeven fold Nile,</l>
+                  <l>Had boyl'd Musk-Millions from the Mount Pernaſſus,</l>
+                  <l>Whereas the ſing ſong wanton Crocodile</l>
+                  <l>Made Romane Creſſus ſmile, and Lidian Craſſus,</l>
+                  <l>When Charing Croſſe the Sun of Summers Leg.</l>
+                  <l>Had Kitned in the eyelids of a Nowne,</l>
+                  <l>And Chriſtmas Carrols playd at Mumble peg,</l>
+                  <l>With the Buls pizzel of a Market Towne;</l>
+                  <l>Then ſhall a Pronowne and a Participle</l>
+                  <l>Fight doggedly for wagging of a ſtraw,</l>
+                  <l>And then Tom Thum with Gogmagog ſhall tipple,</l>
+                  <l>And ſhew the Learnedſt Lawyers what is Law.</l>
+                  <l>Then Ghaſtly fleſh of ſhillings fry'd in ſteaks,</l>
+                  <l>And Oyntments drawn from warme ingratitude</l>
+                  <l>Did draw the teeth of two and forty weeks</l>
+                  <l>From out the heels of ſquemiſh magnitude.</l>
+                  <l>But yet (O yet) a new laid Madrigall</l>
+                  <l>Had bak'd the haunches of a Spaniſh child,</l>
+                  <l>And matcht'em to Sir Guy the Seneſchall,</l>
+                  <pb n="19" facs="tcp:169990:10"/>
+                  <l>Who liv'd Adulterouſly with Boſworth field,</l>
+                  <l>Whileſt this was doing, all undone, and Done,</l>
+                  <l>As men undoe a Trowt to make a Loach,</l>
+                  <l>For as with ſpoons a Lord may eat the Sun,</l>
+                  <l>So layes a Bitch her Litter in a Coach.</l>
+                  <l>The Times have beene, (but Time is turn'd to pap)</l>
+                  <l>That men might ſpeake like Sea-crabs with a Quill,</l>
+                  <l>And old Devotion wore a corner'd Cap</l>
+                  <l>Upon the Stomack of a Water-mill.</l>
+                  <l>But as a Bag pipe-flying in the Ayre,</l>
+                  <l>Doth water all the Earth with Scottiſh Jigs,</l>
+                  <l>So Times do change their turns at Sturbridge Faire;</l>
+                  <l>For all the World now rides on Ale and Wigs.</l>
+                  <l>O that my wings could bleat like butter'd peaſe,</l>
+                  <l>But bleating and my Lungs have caught the itch,</l>
+                  <l>Which are as muſty as the Iriſh Seas,</l>
+                  <l>Which in their left ſide now have both the Stich.</l>
+                  <l>I grant indeed<g ref="char:punc">▪</g> that Rainbows layd to ſleep,</l>
+                  <l>Snort like a Woodknife in a Ladies eyes,</l>
+                  <l>Which makes her bark to ſee a Pudding creep,</l>
+                  <l>For creeping puddings alwayes pleaſe the Wiſe.</l>
+                  <l>The <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> of cuſtome makes a man to piſſe</l>
+                  <l>A caſt of Merlins in King Dido's mouth:</l>
+                  <l>Hence comes the ſquint ey'd Proverb, which is this,</l>
+                  <l>All men are borne their backſides to the South.</l>
+                  <l>A Letter late came from the Stygian Lake</l>
+                  <l>That told me Cerberus himſelfe had choak'd:</l>
+                  <l>He took a Milſtone for a butter'd Cake,</l>
+                  <l>when firſt red Herrings were at Yarmouth ſmoak'd:</l>
+                  <l>The Orientall Chilblains of the Weſt</l>
+                  <l>Flew like a Colliflower in Chequer broath,</l>
+                  <l>And then the Fairy Queen in Buckrum dreſt,</l>
+                  <l>Rod through the Ayre well mounted on a Moth.</l>
+                  <l>Man as he is a Cloakbag, is a fiſh,</l>
+                  <pb n="20" facs="tcp:169990:11"/>
+                  <l>But as a humane Creature he's a Cock:</l>
+                  <l>Which boyld with pinduſt in Chafing diſh,</l>
+                  <l>Eats like ſtew'd Muſtard made in Vulcans ſmock.</l>
+                  <l>Once in an evening when the morning Sun</l>
+                  <l>Did hotly ſpeak with cold Meridian ſplendor;</l>
+                  <l>There was a jolly Frier told a Nun</l>
+                  <l>That Feminine was Maſculine Male Gender,</l>
+                  <l>Things have their times, as Oyſters have their wool:</l>
+                  <l>Dogs have their dayes as Diſtaffes have their Gall,</l>
+                  <l>So all men living ought to dwell at Hull,</l>
+                  <l>For Hallifax cannot containe them all.</l>
+                  <l>A Stateſman once corrupted is a Gun,</l>
+                  <l>That ferrets Screachowls from Bellona's Beard,</l>
+                  <l>To make a handſome Codpiece for the Sun</l>
+                  <l>To were upon the pommell of his Sword.</l>
+                  <l>Man unto Man, is Man; but Man to Man,</l>
+                  <l>Is Herrings fleſh, made of a yard of Ale,</l>
+                  <l>With the ingredients of a D<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>pping pan.</l>
+                  <l>Whiles Pancradge Church begets an Iſſue Male.</l>
+                  <l>An Oxe was lately in a Mouſe-trap taken;</l>
+                  <l>Read but the booke of Weekly Newes, and note</l>
+                  <l>How many ſtock fiſhes were made far Bacon,</l>
+                  <l>Broyld on the Top-m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt of a Muſſell Boat,</l>
+                  <l>New Heroglyphick three-fold twiſted Lines</l>
+                  <l>Of things that were, and were not, how Auguſtus</l>
+                  <l>With Ovids Metamorph<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſes combines,</l>
+                  <l>To try us oftentimes, but never truſt us.</l>
+                  <l>The faculties of every humane ſoule</l>
+                  <l>Are made of Turpentine and Venſon bones:</l>
+                  <l>Ingendred in the night cap of an Owle</l>
+                  <l>That gives a Glyſter to the Torrid Zones:</l>
+                  <l>For as a Piſtoll liſps when he doth court</l>
+                  <l>Three paire of guts, bound up in true loves knots,</l>
+                  <l>So Eaſter Terme is cu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>to'd but in ſport,</l>
+                  <pb n="21" facs="tcp:169990:11"/>
+                  <l>While Hobby-horſes cur'd are of the Bots.</l>
+                  <l>Then ſmoth thy brow with milk-white diſcontent,</l>
+                  <l>And raiſe thy ſpirits up beneath thy feet:</l>
+                  <l>For Shrovetide now hath ſwallow'd Iack-a-lent.</l>
+                  <l>Becauſe few Marriners are in the Fleet.</l>
+                  <l>I know I am a man abhorr'd of Bells</l>
+                  <l>That ring in Concave of an Heteroclite;</l>
+                  <l>I know the Cuckolds thoughts of Bathe and Wels,</l>
+                  <l>Do ſizzle like a Mil-ſtone in a Net.</l>
+                  <l>I ſaw, but what I view'd, I never ſaw</l>
+                  <l>A row of Teeth penfeatherd in a Trowt,</l>
+                  <l>Whilſt Perkins Horſe orethrew a Caſe in Law,</l>
+                  <l>And he himſelfe got fee farme of the Gowt.</l>
+                  <l>How can a Mayor Rule, but with a Lask,</l>
+                  <l>That may ſquirt Steeples in the teeth of Fame?</l>
+                  <l>For if they do, their touch ſtone and their Flask</l>
+                  <l>Will fill the Winde with Polecats of the name.</l>
+                  <l>The clock doth ſtrike when time bewrayes his hoſe,</l>
+                  <l>And Oyſters catch the cough with being kinde.</l>
+                  <l>As Putrocks weare their Buttocks in their noſe,</l>
+                  <l>So Fables weare their Bables in their minde.</l>
+                  <l>I grant indeed, that whoſo may and can, Deep Ppiloſophy.</l>
+                  <l>Can never may, ſith may doth can abey; Deep Ppiloſophy.</l>
+                  <l>But he that can and will, may will as man, Deep Ppiloſophy.</l>
+                  <l>But man can will, yet his will cannot may. Deep Ppiloſophy.</l>
+                  <l>Call True the Taylor hither preſently,</l>
+                  <l>For he muſt make a Mantle for the Moone:</l>
+                  <l>Bid Atlas from his ſhoulders ſhake the sky,</l>
+                  <l>And lend and ſend me his left handed ſpoone.</l>
+                  <l>For Pride's a Pitchfork that the waile doth fill</l>
+                  <l>Of Urſa Mayor (God of Apple Cakes,)</l>
+                  <l>Sloath is the Cucking ſtoole of Holborne hill,</l>
+                  <l>Much like a Sope boyler upon a lakes.</l>
+                  <l>Oh that I were in love with Bobbin-lace,</l>
+                  <pb n="22" facs="tcp:169990:12"/>
+                  <l>Or great with child of Tullies purple Gowne;</l>
+                  <l>Then to mine Ankles I would ſcrew my face,</l>
+                  <l>To make a Paire of Boots for black Renowne.</l>
+                  <l>Faine would I leave, but leave at me doth grin,</l>
+                  <l>As doth a Cuſtard when his nails doth ake;</l>
+                  <l>Or like a blew Bore in a Pudding skin,</l>
+                  <l>So I muſt manners leave for manners ſake.</l>
+                  <l>Then reſt my Rimes, before my reaſon's done,</l>
+                  <l>For women are all Wag tayles when they run:</l>
+                  <l>Who ſets his wits my Sence to undermine, is</l>
+                  <l>A cunning man at Nonſence, farewell. Finis.</l>
+               </lg>
+            </div>
+            <div n="3" type="part">
+               <head>The third part of the fourth Edition to the five Senſes, or Sence aforeſaid.</head>
+               <lg>
+                  <l>ILe ſay no more, but what I mean to ſpeak,</l>
+                  <l>And ſpeaking what I ſay ſhall ſilence break.</l>
+                  <l>Mambudget, let no words be utter'd neither,</l>
+                  <l>Let's ſeperate our ſpeeches cloſe together.</l>
+                  <l>Reach my fierce flye-flap, <hi>Van-Trump,</hi> ſtand aloofe,</l>
+                  <l>My Arms and Armour's cloſe Committee Proofe;</l>
+                  <l>Give me a Butterbox with not on rag on,</l>
+                  <l>I'le pickle him like to a Dutch flap Draggon:</l>
+                  <l>An Ordinance of Parliament ſhall ſcatter ye,</l>
+                  <l>Our Ordinance is Ordnance, that can batter ye.</l>
+                  <l>
+                     <hi>Me vat a whee,</hi> is Cambria Brittiſh French,</l>
+                  <l>Dick ſhifts a Trencher, but Tom keeps the Tr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nch.</l>
+                  <l>An Annagram is John King, and King Iohn,</l>
+                  <l>Five quarters of one year is four to one:</l>
+                  <l>May not a M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſer while a poor mans want,</l>
+                  <l>And give him lodging, cloathing, and provant,</l>
+                  <l>And hang himſelfe, and give the Devill his due,</l>
+                  <l>Perhaps the Newes is too good to be true.</l>
+                  <pb n="23" facs="tcp:169990:12"/>
+                  <l>I care not where mine Hoſteſs, and mine Hoſt lie,</l>
+                  <l>T' have meat and drink for nothing, is not coſtly.</l>
+                  <l>I could have written mad verſe, ſad verſe, glad verſe,</l>
+                  <l>But you ſhall be contented now with bad verſe;</l>
+                  <l>I neither weep or ſing of ſweet Rebellion,</l>
+                  <l>Or ſtory old I lift not now to tell ye on:</l>
+                  <l>The Royall mad Lancaſtrians, and Yorkiſts</l>
+                  <l>Scarce harm'd ſo much as ſome cornuted Forkiſts,</l>
+                  <l>The moſt uncivill civill Goths and Vandals</l>
+                  <l>Did not on their owne Countrey bring ſuch ſcandals.</l>
+                  <l>The Turks, the Iews, the Canibals and Tartars</l>
+                  <l>Ne're kept ſuch wicked, rude, unruly quarters.</l>
+                  <l>Ieruſalems, Eleazer, Iohn, and Simon</l>
+                  <l>Did ne're yield Poet baſer ſtuff to rime on.</l>
+                  <l>Like bloudy Sylla, and conſuming Marius,</l>
+                  <l>One miſchiefe did into another carry us.</l>
+                  <l>Amongſt all Trades (ſome thouſands zealous Widgeons)</l>
+                  <l>Were hardly more in number then Religions.</l>
+                  <l>In Preachers Roomes were Preach'd, for which I woe am,</l>
+                  <l>The baſeſt people Prieſts like Ieroboam.</l>
+                  <l>That one may ſay of London, what a Town is't?</l>
+                  <l>It harbours in it many a Corbraind Browniſt:</l>
+                  <l>Tis ſcatter'd full of Sects, alas how apt is't</l>
+                  <l>To be a Familiſt, or Annabaptiſt</l>
+                  <l>Whilſt Knaves (of both ſides) with Religions Mantle,</l>
+                  <l>Have rifled England by patch, piece, and Cantle;</l>
+                  <l>That I may ſay of thee O London, London,</l>
+                  <l>What hath thy Wealth, Wit, Sword, &amp; furious Gun done?</l>
+                  <l>And what hath many a mothers wicked ſon done?</l>
+                  <l>Whereby (againſt their wills) there's many undone.</l>
+                  <l>Thrice happy had it been for our tranquility,</l>
+                  <l>If th'Authours of this incivility</l>
+                  <l>Had been a little check'd by <hi>Gregory Brandon,</hi>
+                  </l>
+                  <l>With each of them a hempen twiſted band on.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
